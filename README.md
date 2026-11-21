@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sentiment Analysis — Customer Feedback
 
 
@@ -12,3 +13,7 @@
 ## Deploy
 - Use Heroku, Render, Railway, or any service that supports Python/Flask.
 - For Heroku: `heroku create`, `git push heroku main` and set buildpacks if required.
+=======
+# customer-sentiment-analysis
+Customer Sentiment Analysis using Python, Machine Learning, NLP and Flask to classify customer reviews into positive, negative and neutral sentiments.
+>>>>>>> fca45d8de4c8222ecb53c505fde5f50e45a70fee
